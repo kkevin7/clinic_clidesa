@@ -17,15 +17,15 @@ h1, h2{
 
 /*header area*/
 .top-header{
-	background: #fff !important;
+	background: #03d1ec !important;
 	position: fixed;
 	width: 100%;
 	z-index: 99999;
 }
 .header-backup{
-	width: 20px;
+	width: 100%;
 	height: 119px;
-	background: transparent;
+	background: #3a9ecb ;
 	margin:auto;
 }
 .top-header img.logo{
@@ -60,7 +60,7 @@ ul.nav{
 }
 .navbar-default .navbar-nav>li>a {
  	font-size: 24px;
-	color: #737373;
+	color: #444657;
 	text-transform: uppercase;
 	transition: all .7s ease 0s;
 	-webkit-transition: all .7s ease 0s;
@@ -71,13 +71,13 @@ ul.nav{
 	font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #42b3e5;
+	color: #BB8FCE;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #000;
 }
 li a.active{
-	color: #42b3e5 !important;
+	color: #BB8FCE !important;
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
